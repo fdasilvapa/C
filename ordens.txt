@@ -1,0 +1,4 @@
+Pre ordem: raiz, esquerda, direita
+Em ordem: esquerda, raiz, direita
+Pos ordem: esquerda, direita, raiz
+Nivel: Cima para baixo, esquerda para direita
